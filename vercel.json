@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://ly522-music-api.vercel.app:match*"
+    }
+  ]
+}
